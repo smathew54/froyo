@@ -1,6 +1,6 @@
 console.log("am i connect?");
 
-//vanilla,vanilla,vanilla,strawberry,coffee,coffee
+//vanilla,vanilla,vanilla,strawberry,coffee,coffee,vanilla,vanilla,vanilla,strawberry,coffee,coffee
 let flavors = prompt("Please enter your flavors here: ");
 
 console.log(flavors);
